@@ -13,12 +13,12 @@
       {
         "name": null,
         "type": "NS",
-        "data": "ns1.zapdns.in"
+        "data": "ns1.zapdns.xyz"
       },
       {
         "name": null,
         "type": "NS",
-        "data": "ns2.zapdns.in"
+        "data": "ns2.zapdns.xyz"
       },
       {
         "name": "ns1",
