@@ -1,5 +1,5 @@
 {
-  "domain": "localdns.local",
+  "domain": "zapdns.local",
   "port": 80,
   "db": "mongodb://db/dev",
   "contact": "root@localhost",
@@ -10,7 +10,7 @@
       {
         "name": null,
         "type": "NS",
-        "data": "ns1.localdns.local"
+        "data": "ns1.zapdns.local"
       },
       {
         "name": "ns1",
