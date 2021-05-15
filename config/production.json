@@ -1,29 +1,39 @@
 {
-  "domain": "localdns.in",
+  "domain": "zapdns.xyz",
   "port": 80,
   "db": "mongodb://db/dns",
-  "contact": "contact@localdns.in",
+  "contact": "contact@zapdns.xyz",
   "dns": {
     "records": [
       {
         "name": "www",
         "type": "A",
-        "data": "144.76.69.79"
+        "data": "51.210.5.198"
       },
       {
         "name": null,
         "type": "NS",
-        "data": "ns1.localdns.in"
+        "data": "ns1.zapdns.in"
+      },
+      {
+        "name": null,
+        "type": "NS",
+        "data": "ns2.zapdns.in"
       },
       {
         "name": "ns1",
         "type": "A",
-        "data": "144.76.69.89"
+        "data": "51.210.5.198"
+      },
+      {
+        "name": "ns2",
+        "type": "A",
+        "data": "51.210.5.198"
       },
       {
         "name": null,
         "type": "A",
-        "data": "144.76.69.79"
+        "data": "51.210.5.198"
       }
     ]
   },
