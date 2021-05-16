@@ -1,6 +1,7 @@
 {
   "domain": "zapdns.xyz",
   "port": 80,
+  "port_https": 443,
   "db": "mongodb://db/dns",
   "contact": "contact@zapdns.xyz",
   "dns": {
