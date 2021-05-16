@@ -1,8 +1,16 @@
-# zapdns
-[![License](https://img.shields.io/github/license/JoeBiellik/localdns.svg)](LICENSE.md)
-[![Release Version](https://img.shields.io/github/release/JoeBiellik/localdns.svg)](https://github.com/iKevinDeveloper/localdns/releases)
+# FAQs
 
-## Usage
+## Where is my ip?
+Your IP is hosted on a private ovh server.
+The IP is not used for any other purpose than to offer the service.
+
+## Is ZapDNS private?
+Yes, ZapDNS is 100% private, we do not use your information for any other purpose than to offer you the service.
+
+## Who is behind ZapDNS?
+My name is Kevin Fernández and my purpose here is to offer different web services focused on user privacy, always using free software.
+
+# Usage
 You can simply login to the website and manage your subdomain and IP address there or you can use the simple HTTP API to update your IP with a script or dynamic DNS client.
 
 ### Cron
