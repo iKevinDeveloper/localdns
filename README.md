@@ -16,7 +16,7 @@ You can simply login to the website and manage your subdomain and IP address the
 ### Cron
 The easiest way to keep your mapping up to date is to add the following line to your crontab which will update your IP every three hours:
 ```
-0 */3 * * * curl -u 'USERNAME:PASSWORD' http://zapdns.xyz/update
+0 */3 * * * curl -u 'USERNAME:PASSWORD' https://zapdns.xyz/update
 ```
 
 ### ddclient
